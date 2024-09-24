@@ -30,7 +30,7 @@ curl -sSL https://nixpacks.com/install.sh | bash
 cd ~
 mkdir -p projects
 cd projects
-git clone https://github.com/peruzzoarthur/port-test.git
+git clone https://github.com/peruzzoarthur/ec2-testing.git
 
 cd port-test
 nixpacks build . --name portfolio
